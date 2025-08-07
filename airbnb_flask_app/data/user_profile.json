@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": "user1",
+    "name": "Alice",
+    "group_size": 2,
+    "preferred_environment": "mountain",
+    "budget_range": "100-200",
+    "travel_dates": {
+      "start": "2025-09-01",
+      "end": "2025-09-07"
+    }
+  },
+  {
+    "user_id": "user2",
+    "name": "Bob",
+    "group_size": 4,
+    "preferred_environment": "beach",
+    "budget_range": "150-250",
+    "travel_dates": null
+  },
+  {
+    "user_id": "user3",
+    "name": "Charlie",
+    "group_size": 1,
+    "preferred_environment": "city",
+    "budget_range": "80-150",
+    "travel_dates": {
+      "start": "2025-08-20",
+      "end": "2025-08-25"
+    }
+  }
+]
