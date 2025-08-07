@@ -1,0 +1,18 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+venv/
+
+# Environment variables and secret keys
+.env
+
+# Logs
+logs/
+
+# Coverage reports
+htmlcov/
+*.cover
+.coverage
+
+# Notebook checkpoints
+.ipynb_checkpoints
