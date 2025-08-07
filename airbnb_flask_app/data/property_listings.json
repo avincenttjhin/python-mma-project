@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Cozy Mountain Cabin",
+    "location": "Banff, Alberta",
+    "type": "cabin",
+    "nightly_price": 150,
+    "features": ["hot tub", "fireplace", "wifi"],
+    "tags": ["remote", "mountain", "ski"],
+    "lat": 51.1784,
+    "lng": -115.5708
+  },
+  {
+    "id": "2",
+    "name": "Beachfront Condo",
+    "location": "Miami Beach, Florida",
+    "type": "condo",
+    "nightly_price": 200,
+    "features": ["pool", "wifi", "ocean view"],
+    "tags": ["beach", "nightlife"],
+    "lat": 25.7906,
+    "lng": -80.1300
+  },
+  {
+    "id": "3",
+    "name": "Lake House Getaway",
+    "location": "Muskoka, Ontario",
+    "type": "house",
+    "nightly_price": 175,
+    "features": ["dock", "canoe", "pet friendly"],
+    "tags": ["lake", "family-friendly"],
+    "lat": 45.0365,
+    "lng": -79.4806
+  },
+  {
+    "id": "4",
+    "name": "Urban Loft",
+    "location": "Toronto, Ontario",
+    "type": "loft",
+    "nightly_price": 120,
+    "features": ["wifi", "workspace", "city view"],
+    "tags": ["city", "nightlife"],
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "id": "5",
+    "name": "Rural Farmhouse",
+    "location": "Prince Edward County, Ontario",
+    "type": "farmhouse",
+    "nightly_price": 140,
+    "features": ["hot tub", "wifi", "pet friendly"],
+    "tags": ["remote", "family-friendly"],
+    "lat": 44.0079,
+    "lng": -77.0609
+  }
+]
