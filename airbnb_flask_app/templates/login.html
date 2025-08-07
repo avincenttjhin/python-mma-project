@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}Login – Airbnb Clone{% endblock %}
+
+{% block content %}
+  <h1 class="mb-4">Login</h1>
+  <form method="post" action="/login">
+    <div class="mb-3">
+      <label for="email" class="form-label">Email address</label>
+      <input type="email" class="form-control" id="email" name="email" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Send Magic Link</button>
+  </form>
+{% endblock %}
